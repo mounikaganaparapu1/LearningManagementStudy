@@ -1,0 +1,12 @@
+D:\Shubham Workspace\LMSProject\LMSApp\com.lms.service\bin\Debug\netcoreapp3.1\com.lms.service.deps.json
+D:\Shubham Workspace\LMSProject\LMSApp\com.lms.service\bin\Debug\netcoreapp3.1\com.lms.service.dll
+D:\Shubham Workspace\LMSProject\LMSApp\com.lms.service\bin\Debug\netcoreapp3.1\com.lms.service.pdb
+D:\Shubham Workspace\LMSProject\LMSApp\com.lms.service\obj\Debug\netcoreapp3.1\com.lms.service.csproj.AssemblyReference.cache
+D:\Shubham Workspace\LMSProject\LMSApp\com.lms.service\obj\Debug\netcoreapp3.1\com.lms.service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shubham Workspace\LMSProject\LMSApp\com.lms.service\obj\Debug\netcoreapp3.1\com.lms.service.AssemblyInfoInputs.cache
+D:\Shubham Workspace\LMSProject\LMSApp\com.lms.service\obj\Debug\netcoreapp3.1\com.lms.service.AssemblyInfo.cs
+D:\Shubham Workspace\LMSProject\LMSApp\com.lms.service\obj\Debug\netcoreapp3.1\com.lms.service.csproj.CoreCompileInputs.cache
+D:\Shubham Workspace\LMSProject\LMSApp\com.lms.service\obj\Debug\netcoreapp3.1\com.lms.service.dll
+D:\Shubham Workspace\LMSProject\LMSApp\com.lms.service\obj\Debug\netcoreapp3.1\com.lms.service.pdb
+D:\Shubham Workspace\LMSProject\LMSApp\com.lms.service\bin\Debug\netcoreapp3.1\com.lms.DAO.dll
+D:\Shubham Workspace\LMSProject\LMSApp\com.lms.service\bin\Debug\netcoreapp3.1\com.lms.DAO.pdb

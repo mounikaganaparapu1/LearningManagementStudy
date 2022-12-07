@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>com.lmsapp.webapi</name>
+    </assembly>
+    <members>
+        <member name="T:com.lmsapp.webapi.Controllers.AuthenticationController">
+            <summary>
+            Authentication endpoints
+            </summary>
+        </member>
+        <member name="M:com.lmsapp.webapi.Controllers.AuthenticationController.#ctor(MediatR.IMediator)">
+            <summary>
+            Injecting Mediator
+            </summary>
+            <param name="mediator"></param>
+        </member>
+        <member name="M:com.lmsapp.webapi.Controllers.AuthenticationController.Login(com.lms.service.GetTokenModel)">
+            <summary>
+            login endpoint returns token for valid users
+            </summary>
+        </member>
+        <member name="M:com.lmsapp.webapi.Controllers.AuthenticationController.RegisterUser(com.lms.service.RegisterUserModel)">
+            <summary>
+            register endpoint to register new user
+            </summary>
+        </member>
+        <member name="T:com.lmsapp.webapi.Controllers.CourseController">
+            <summary>
+            Authentication endpoints
+            </summary>
+            
+        </member>
+        <member name="M:com.lmsapp.webapi.Controllers.CourseController.#ctor(MediatR.IMediator)">
+            <summary>
+            Injecting Mediator
+            </summary>
+            <param name="mediator"></param>
+        </member>
+        <member name="M:com.lmsapp.webapi.Controllers.CourseController.AddCourse(com.lms.service.AddCourseModel)">
+            <summary>
+            Add course endpoint to add new course
+            </summary>
+        </member>
+        <member name="M:com.lmsapp.webapi.Controllers.CourseController.GetAllCourses">
+            <summary>
+            get endpoint for getting all Courses
+            </summary>
+        </member>
+        <member name="M:com.lmsapp.webapi.Controllers.CourseController.DeleteCourse(System.String)">
+            <summary>
+            Delete Course with CourseId by valid user
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:com.lmsapp.webapi.Controllers.CourseController.GetCoursesByDurationRange(System.Int32,System.Int32)">
+            <summary>
+            Get Course Details Based on Duration range
+            </summary>
+            <param name="durationFrom"></param>
+            <param name="durationTo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:com.lmsapp.webapi.Controllers.CourseController.GetCoursesByTechnology(System.String)">
+            <summary>
+            Get Course Details Based on Technology
+            </summary>
+            <param name="technology"></param>
+            <returns></returns>
+        </member>
+        <member name="T:com.lmsapp.webapi.Program">
+            <summary>
+            Startup
+            </summary>
+        </member>
+        <member name="M:com.lmsapp.webapi.Program.Main(System.String[])">
+            <summary>
+            Startup
+            </summary>
+        </member>
+        <member name="M:com.lmsapp.webapi.Program.CreateHostBuilder(System.String[])">
+            <summary>
+            Startup
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,10 @@
+D:\Shubham Workspace\LMSProject\LMSApp\com.lms.DAO\bin\Debug\netcoreapp3.1\com.lms.DAO.deps.json
+D:\Shubham Workspace\LMSProject\LMSApp\com.lms.DAO\bin\Debug\netcoreapp3.1\com.lms.DAO.dll
+D:\Shubham Workspace\LMSProject\LMSApp\com.lms.DAO\bin\Debug\netcoreapp3.1\com.lms.DAO.pdb
+D:\Shubham Workspace\LMSProject\LMSApp\com.lms.DAO\obj\Debug\netcoreapp3.1\com.lms.DAO.csproj.AssemblyReference.cache
+D:\Shubham Workspace\LMSProject\LMSApp\com.lms.DAO\obj\Debug\netcoreapp3.1\com.lms.DAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shubham Workspace\LMSProject\LMSApp\com.lms.DAO\obj\Debug\netcoreapp3.1\com.lms.DAO.AssemblyInfoInputs.cache
+D:\Shubham Workspace\LMSProject\LMSApp\com.lms.DAO\obj\Debug\netcoreapp3.1\com.lms.DAO.AssemblyInfo.cs
+D:\Shubham Workspace\LMSProject\LMSApp\com.lms.DAO\obj\Debug\netcoreapp3.1\com.lms.DAO.csproj.CoreCompileInputs.cache
+D:\Shubham Workspace\LMSProject\LMSApp\com.lms.DAO\obj\Debug\netcoreapp3.1\com.lms.DAO.dll
+D:\Shubham Workspace\LMSProject\LMSApp\com.lms.DAO\obj\Debug\netcoreapp3.1\com.lms.DAO.pdb
